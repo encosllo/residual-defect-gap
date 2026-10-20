@@ -1,0 +1,4 @@
+groups of order at most 72 with b_N >= 2 [n, i, b_N, b_sn]: [ [ 72, 40, 2, 2 ] ]
+IdGroup(S_3 wr C_2) = [ 72, 40 ]
+affine model V x| D_8: |G| = 72, IdGroup = [ 72, 40 ], b_N = 2, |W(G)| = 18, W(G) = V x| Z(M): true
+FINAL

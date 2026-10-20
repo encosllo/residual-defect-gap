@@ -1,0 +1,6 @@
+|M| = 75; the action is a homomorphism: true
+|G| = 75 * 17^12: true; F(G) = V: true; h(G) = 3
+subnormal classes of M = 5; defects of the tested residuals = [ 1, 1, 1, 2, 1 ]; W(G) = N: true; l_W(G) = 2
+Pi_1 centralizes V_1: true
+|H_0| = 17^9 * 5: true; Def_G(H_0) = 3; H_0^N = R_1: true; Def_G(R_1) = 2
+FINAL

@@ -1,0 +1,7 @@
+Lemma 5.4: Q = Q_8: true; Q = F(GL(2,3)): true; <u,c> = S_3: true; complement: true; T_0 x| C embeds in Out(Q): true; |Out(Q)| = 6: true
+Lemma 5.5, AGL(2,3): W(B) = B: true; F(B) = V: true; h(B) = 4 (expected 4); K^N = P: true; C_V(z) = 1: true; subnormal classes of K = 7, proper L with LP = K: 0
+Lemma 5.5, odd block F_29^3 x| (C_7 x| C_3): W(B) = B: true; F(B) = V: true; h(B) = 3 (expected 3); K^N = P: true; C_V(z) = 1: true; subnormal classes of K = 257, proper L with LP = K: 0
+Lemma 4.3, l = 13: Q_8: true; fixed-point-free: true; |GL(2,3) on V_l| = 48; single-coordinate vectors: 1008, all regular: true, spanning: true, orbits = 21 (expected 21)
+Lemma 4.3, l = 17: Q_8: true; fixed-point-free: true; |GL(2,3) on V_l| = 48; single-coordinate vectors: 1728, all regular: true, spanning: true, orbits = 36 (expected 36)
+Lemma 4.4, (s,r,t) = (3,7,29): single-coordinate vectors: 84, all regular: true, all cyclic: true, orbits = 4 (expected 4)
+FINAL

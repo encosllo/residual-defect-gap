@@ -1,0 +1,6 @@
+Theorem 6.1: A subnormal in E: true; (A^N)^E <= N_E(O^3(A)): false (expected false)
+Theorem 6.1: |V x| E| = 7558272, |VA| = 314928; defect of (VA)^N = 3 (expected 3)
+Corollary 6.2(i): Q_8-invariant lines of S over F_13: 0 (expected 0)
+Corollary 6.2(ii): AGL(2,3): |B:B'| = 2; B^N normalizes O^2(L): false (expected false)
+Corollary 6.2(iii): |B:B'| = 3; B^N normalizes O^3(L): false (expected false)
+FINAL

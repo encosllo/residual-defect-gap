@@ -1,0 +1,8 @@
+S_3, p = 2: |F_p[M] x| M| = 384, b_N = 1; condition (iii): true; Thm 3.10: true
+S_3, p = 3: |F_p[M] x| M| = 4374, b_N = 1; condition (iii): true; Thm 3.10: true
+D_8, p = 3: |F_p[M] x| M| = 52488, b_N = 2; condition (iii): true; Thm 3.10: true
+A_4, p = 2: |F_p[M] x| M| = 49152, b_N = 1; condition (iii): true; Thm 3.10: true
+A_4, p = 3: |F_p[M] x| M| = 6377292, b_N = 2; condition (iii): true; Thm 3.10: true
+C_3 wr C_2, p = 2: |F_p[M] x| M| = 4718592, b_N = 2; condition (iii): true; Thm 3.10: true
+C_3 wr C_2, p = 3: |F_p[M] x| M| = 6973568802, b_N = 1; condition (iii): true; Thm 3.10: true
+FINAL

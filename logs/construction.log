@@ -1,0 +1,4 @@
+Case A: E = C_3, p = 2, B = F_7^2 x| S_3: |G| = 38118276; |G| = |K|^|E| |X| |E|: true; h(G) = 4 = h(E) + h(B): true; F(G) = V^Omega: true; b_N(G) = 2; N <= W(G): true; |G:W(G)| = 3; l_W(G) = 2, l_W(E) = 1; time 0 s
+Case D: E = C_2, p = 3, B = F_29^3 x| (C_7 x| C_3): |G| = 174878056374; |G| = |K|^|E| |X| |E|: true; h(G) = 4 = h(E) + h(B): true; F(G) = V^Omega: true; b_N(G) = 2; N <= W(G): true; |G:W(G)| = 2; l_W(G) = 2, l_W(E) = 1; time 413 s
+Case B: E = C_3, p = 2, B = AGL(2,3): |G| = 120932352; |G| = |K|^|E| |X| |E|: true; h(G) = 5 = h(E) + h(B): true; F(G) = V^Omega: true; b_N(G) = 2; N <= W(G): true; |G:W(G)| = 3; l_W(G) = 2, l_W(E) = 1; time 4379 s
+FINAL

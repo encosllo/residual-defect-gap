@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article below and this software."
+title: "GAP code for \"Residual Subnormal Defect Two: Affine Criteria and Extremal Fitting Height\""
+type: software
+authors:
+  - family-names: Gong
+    given-names: Lü
+    affiliation: "School of Mathematics and Statistics, Nantong University, China"
+  - family-names: Yan
+    given-names: Yan
+    affiliation: "School of Mathematics and Statistics, Nantong University, China"
+  - family-names: Cosme Llópez
+    given-names: Enric
+    affiliation: "Departament de Matemàtiques, Universitat de València, Spain"
+license: MIT
+repository-code: "https://github.com/encosllo/residual-defect-gap"
+keywords:
+  - GAP
+  - finite groups
+  - soluble groups
+  - nilpotent residual
+  - subnormal subgroup
+  - Fitting height
+preferred-citation:
+  type: article
+  title: "Residual Subnormal Defect Two: Affine Criteria and Extremal Fitting Height"
+  authors:
+    - family-names: Gong
+      given-names: Lü
+    - family-names: Yan
+      given-names: Yan
+    - family-names: Cosme Llópez
+      given-names: Enric

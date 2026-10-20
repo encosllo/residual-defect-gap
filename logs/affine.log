@@ -1,0 +1,12 @@
+D_8 on F_3^2 (Example 3.11): |G| = 72, brute force, classes tested = 13, b_N(G) = 2, b_N(M) = 1; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+AGL(2,3): |G| = 432, brute force, classes tested = 8, b_N(G) = 1, b_N(M) = 1; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+ASL(2,3): |G| = 216, brute force, classes tested = 7, b_N(G) = 1, b_N(M) = 1; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+S_4 on F_2^4 (permutation module): |G| = 384, brute force, classes tested = 47, b_N(G) = 1, b_N(M) = 1; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+S_4 on F_3^4 (permutation module): |G| = 1944, brute force, classes tested = 46, b_N(G) = 2, b_N(M) = 1; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+D_8 on F_3^4 (permutation module): |G| = 648, brute force, classes tested = 97, b_N(G) = 2, b_N(M) = 1; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+S_3 on F_2^6 (regular module): |G| = 384, VA only, classes tested = 3, b_N(G) = 1, b_N(M) = 1; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+S_3 on F_3^6 (regular module): |G| = 4374, VA only, classes tested = 3, b_N(G) = 1, b_N(M) = 1; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+C_3 wr C_2 on F_2^6 (permutation module): |G| = 1152, VA only, classes tested = 7, b_N(G) = 2, b_N(M) = 1; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+S_3 wr C_2 on F_2^6 (permutation module): |G| = 4608, VA only, classes tested = 13, b_N(G) = 2, b_N(M) = 2; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+S_3 wr C_2 on F_3^6 (permutation module): |G| = 52488, VA only, classes tested = 13, b_N(G) = 2, b_N(M) = 2; Thm 3.3: true; Thm 3.1: true; Thm 3.5: true; Prop 3.8: true
+FINAL
