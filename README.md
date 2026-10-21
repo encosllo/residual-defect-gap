@@ -12,7 +12,9 @@ subgroups $H$ of $G$. The residual defect $b_{\mathcal N}(G)$ is the largest sub
 residual, $b_{\mathrm{sn}}(G)$ is the largest subnormal defect of a subnormal subgroup, $\mathrm W(G)$ is the
 intersection of the normalizers of the tested residuals, $\ell_{\mathrm W}(G)$ is the length of the upper
 $\mathrm W$-series and $h(G)$ is the Fitting height. Notation follows the paper, and theorem and section
-numbers refer to it.
+numbers refer to it. References of the form [Part I, ...] are to the companion paper
+L. Gong, Y. Yan and E. Cosme Llópez, *Wielandt subgroups of nilpotent residuals and Fitting-height bounds*,
+[arXiv:2610.28082](https://arxiv.org/abs/2610.28082).
 
 The paper itself relies on a computer search only for Example 3.11. The other scripts check
 statements of the paper on small cases, as an independent test of the proofs.
